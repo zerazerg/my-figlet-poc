@@ -1,4 +1,4 @@
-import React, { useEffect, useMemo, useState, type JSX } from 'react';
+import { useEffect, useState, type JSX } from 'react';
 import figlet from 'figlet';
 import Standard from 'figlet/importable-fonts/Standard.js';
 
